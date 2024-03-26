@@ -1431,6 +1431,7 @@ API | Description | Auth | HTTPS | CORS |
 ### Security
 API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
+| [Luxand.cloud Face Recognition](https://luxand.cloud/) | Accurately recognize and compare human faces. Identify people who have been previously tagged in images. Detect age, gender, and emotions in photos. | `apiKey` | Yes | Yes |
 | [Application Environment Verification](https://github.com/fingerprintjs/aev) | Android library and API to verify the safety of user devices, detect rooted devices and other risks | `apiKey` | Yes | Yes |
 | [BinaryEdge](https://docs.binaryedge.io/api-v2.html) | Provide access to BinaryEdge 40fy scanning platform | `apiKey` | Yes | Yes |
 | [BitWarden](https://bitwarden.com/help/api/) | Best open-source password manager | `OAuth` | Yes | Unknown |
